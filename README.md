@@ -1,6 +1,8 @@
 # ATM-Machine-
 #include<stdio.h>
-
+void balchecking();
+void cashwithdrawl();
+void Deposition();
 main()
 {
    char op; //op=option
